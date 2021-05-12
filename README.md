@@ -20,7 +20,7 @@ Php Api client for the c# musicbot [Ts3AudioBot](https://github.com/Splamy/Ts3Au
 * Use following command to install:
 
 ```bash
-composer require iiVoiX/ts3audiobot
+composer require voixcode/ts3audiobot
 ```
 Only when for laravel below 5.4:
 * Add the service provider to your `providers[]` array in `config/app.php` file like: 
